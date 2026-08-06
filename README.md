@@ -64,15 +64,6 @@
       height="40"
     />
   </a>
-  <a href="https://unity.com/">
-    <img
-      src="./docs/unity.png"
-      alt="Unity"
-      title="Unity"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.unrealengine.com/">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
