@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://en.cppreference.com/w/">
-    <!-- 수정: 잘못된 src 태그를 img 태그로 변경 -->
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="C++"
@@ -24,16 +23,15 @@
     />
   </a>
 
-  <!-- 추가: Sourcetree 아이콘과 공식 사이트 링크 -->
-  <a href="https://www.sourcetreeapp.com/">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg"
-      alt="Sourcetree"
-      title="Sourcetree"
-      width="40"
-      height="40"
-    />
-  </a>
+<a href="https://www.sourcetreeapp.com/">
+  <img
+    src="./docs/sourcetree.png"
+    alt="Sourcetree"
+    title="Sourcetree"
+    width="40"
+    height="40"
+  />
+</a>
 
   <a href="https://github.com/">
     <img
