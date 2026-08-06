@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center"> Younjaehyung </h1>
 
-<!--
-**Younjaehyung/Younjaehyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/jinhyeonseo01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.youtube.com/@clerin_dev">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
+      title="C++"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="C#"
+      title="C#"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="Git"
+      title="Git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://github.com/">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="GitHub"
+      title="GitHub"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.perforce.com/products/helix-core">
+    <img
+      src="./docs/perforce.png"
+      alt="Perforce"
+      title="Perforce"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.khronos.org/opengl/">
+    <img
+      src="https://www.khronos.org/assets/images/api_logos/opengl.svg"
+      alt="OpenGL"
+      title="OpenGL"
+      width="90"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/windows/win32/direct3d12/direct3d-12-graphics">
+    <img
+      src="./docs/DirectX-12-Logo.png"
+      alt="DirectX 12"
+      title="DirectX 12"
+      width="55"
+      height="40"
+    />
+  </a>
+  <a href="https://unity.com/">
+    <img
+      src="./docs/unity.png"
+      alt="Unity"
+      title="Unity"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.unrealengine.com/">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
+      alt="Unreal Engine"
+      title="Unreal Engine"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
