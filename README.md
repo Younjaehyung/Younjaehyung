@@ -25,7 +25,7 @@
 
 <a href="https://www.sourcetreeapp.com/">
   <img
-    src="./docs/sourcetree.png"
+    src="./docs/sourceTree.png"
     alt="Sourcetree"
     title="Sourcetree"
     width="40"
