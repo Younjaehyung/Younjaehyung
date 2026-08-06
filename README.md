@@ -1,17 +1,6 @@
 <h1 align="center"> Younjaehyung </h1>
 
-
-<p align="center">
-  <a href="https://github.com/jinhyeonseo01">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.youtube.com/@clerin_dev">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube channel" />
-  </a>
-</p>
-
 ## Languages and Tools
-
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
