@@ -10,15 +10,6 @@
       height="40"
     />
   </a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="C#"
-      title="C#"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
